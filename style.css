@@ -1,0 +1,26 @@
+img{
+    height: 300px;
+    width: 400px;
+    
+}
+h1{
+    color: green;
+}
+h2{
+    color: rgb(112, 6, 112);
+}
+h3{
+    color: orangered;
+}
+h4{
+    color: blue;
+}
+p{
+    color: rgb(180, 7, 114);
+}
+table th{
+    color: green;
+}
+table tr{
+    color: red;
+}
